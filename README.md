@@ -1,3 +1,2 @@
-Olá! Bem-vindo ao meu GitHub 😀
-
-Estudo desenvolvimento backend há 6 meses, apaixonado por tecnologias e códigos. Adoro estudar e aprender todos os dias sobre coisas relacionadas com TI
+Hi there! Welcome to my GitHub 😀
+I have been studying software development, passionate by technologies and codes. I love studie and learning everyday about things related with IT
