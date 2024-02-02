@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **C#, JAVASCRIPT,HTML, CSS**
+ 🌱 I’m currently learning **C#, JAVASCRIPT, HTML, CSS, GIT**
 
 </div>
 
@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Learning and Developing ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=csharp,javascript,html,css,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,javascript,html,css,github,git" /><br>
 </div>
 
 <br/>
