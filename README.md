@@ -1,8 +1,28 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Caio+Andrade!;" />
-</h1>
 
-<div align="center"> 
-  <a href="https://linkedin.com/in/caio-andrade2442" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+<p align="left"> 
+  👋 Hi, i'm <b>Caio Rodrigues de Andrade</b>. I'm currently studying full-stack development.<br>
+</p>
+<p align="left"> 
+  🧠 I'm focused on web and application development.
+</p>
+
+<p align="left">
+  💼 At the moment: <b>**Working as a software engineer.**</b>
+</p>
+
+💻 Hard Skills:
+<p align="left">
+
+ [![My Skills](https://skillicons.dev/icons?i=cs,ts,dotnet,angular,react,nodejs,git,)](https://skillicons.dev)
+</p>
+
+<p align="left">
+  💌 Contact me if you want to know more: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:caio.andrade2442@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/caio-andrade2442/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
