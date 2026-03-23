@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💼 At the moment: <b>**Working as a software engineer.**</b>
+  💼 At the moment: <b>Working as a software engineer.</b>
 </p>
 
 💻 Hard Skills:
